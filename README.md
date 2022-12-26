@@ -1,0 +1,2 @@
+# onclonesocial
+com angular,firebase.
